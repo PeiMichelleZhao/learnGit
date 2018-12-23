@@ -3,4 +3,4 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
-use no fast forward to meger branch.
+Use --no-ff fast forward to meger branch.
